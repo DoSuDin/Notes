@@ -1,0 +1,17 @@
+<resources>
+    <string name="hello">Hello World, SimpleDBActivity!</string>
+    <string name="title">Мои заметки</string>
+    <string name="name">Название</string>
+    <string name="text">Текст</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="icon">Icon</string>
+    <string name="list">Список</string>
+    <string name="reminder">Напоминание</string>
+    <string name="notes">Заметки</string>
+    <string name="add">Добавить</string>
+    <string name="deleteAll">Удалить всё</string>
+
+</resources>
